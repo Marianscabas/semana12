@@ -1,0 +1,39 @@
+FLUJO DEL SISTEMA
+"Peticion en 3 Clics"
+========================================
+
+Paso 1
+------
+El ciudadano ingresa a la
+plataforma y crea una causa
+(titulo, descripcion, fecha).
+
+Paso 2
+------
+La causa queda registrada
+en la base de datos.
+
+Paso 3
+------
+Otros ciudadanos visualizan
+la causa y la apoyan
+registrando su nombre.
+
+Paso 4
+------
+El sistema cuenta de forma
+automatica los apoyos
+recibidos.
+
+Paso 5
+------
+Al alcanzar los apoyos
+necesarios, se genera un
+documento PDF formal con
+la peticion.
+
+Paso 6
+------
+El documento se puede
+descargar o compartir ante
+la entidad correspondiente.

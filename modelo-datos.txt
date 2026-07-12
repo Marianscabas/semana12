@@ -1,0 +1,35 @@
+MODELO DE DATOS
+"Peticion en 3 Clics"
+========================================
+
+Entidad: CAUSA
+---------------
+- id
+- titulo
+- descripcion
+- fecha
+
+Para que sirve:
+Guarda la informacion
+principal de cada causa
+creada por un ciudadano.
+
+Entidad: APOYO
+---------------
+- id
+- causa_id
+- nombre
+- fecha
+
+Para que sirve:
+Registra cada apoyo dado
+a una causa. El campo
+causa_id conecta el apoyo
+con la causa correspondiente.
+
+RELACION
+---------------
+Una causa puede tener
+muchos apoyos.
+Cada apoyo pertenece a
+una sola causa.

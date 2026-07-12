@@ -1,0 +1,31 @@
+REFLEXION SEMANA 12
+"Peticion en 3 Clics"
+========================================
+
+Durante este curso aprendi
+que la tecnologia puede ser
+una herramienta poderosa
+para fortalecer la
+participacion ciudadana.
+
+Comprendi como se conectan
+el backend, la base de
+datos, la generacion de
+documentos y la
+automatizacion para crear
+soluciones utiles para una
+comunidad.
+
+Tambien entendi la
+importancia de proteger
+los datos personales al
+disenar sistemas que
+manejan informacion de
+ciudadanos.
+
+Este proyecto integrador me
+permitio ver como pequenas
+piezas de codigo, bien
+organizadas, pueden generar
+un impacto real en procesos
+sociales y comunitarios.

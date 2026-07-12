@@ -1,0 +1,33 @@
+AUTOMATIZACION
+"Peticion en 3 Clics"
+========================================
+
+Herramienta usada: n8n
+------------------------
+
+Evento que activa
+la automatizacion
+------------------------
+Se registra una nueva
+causa en la plataforma.
+
+Mensaje enviado
+------------------------
+"Nueva causa creada en
+la plataforma."
+
+Canal de envio
+------------------------
+Notificacion automatica
+por Telegram al grupo
+de la comunidad.
+
+Informacion que NO
+debe enviarse
+------------------------
+- Cedulas
+- Telefonos
+- Direcciones
+- Comentarios sensibles
+- Cualquier dato personal
+  del ciudadano
